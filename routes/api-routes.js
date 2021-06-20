@@ -1,7 +1,7 @@
 //Dependencies
 const router = require('express').Router();
-const { Workout } = require('../models/');
-const db = require('../models/');
+// const { Workout } = require('../models');
+const db = require('../models');
 
 
 //Route to get all previous workouts
